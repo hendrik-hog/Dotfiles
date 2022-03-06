@@ -1,0 +1,7 @@
+[user]
+	name = Hendrik Hogertz
+	email = h.hogertz@icloud.com
+[init]
+	defaultBranch = main
+[core]
+	editor = nano
